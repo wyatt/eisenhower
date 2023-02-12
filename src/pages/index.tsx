@@ -16,7 +16,7 @@ export default function Home() {
             The Eisenhower Template
           </Heading>
           <Text mb={3}>
-            A Typescript + Next.js template with nice defaults and no nonsense.
+            A Next.js template with nice defaults and no nonsense.
           </Text>
           <Text>
             <i>
