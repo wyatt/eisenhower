@@ -1,5 +1,5 @@
 # Eisenhower
-A simple, no-nonsense template repository for Next.js projects.
+A Next.js template with nice defaults and no nonsense.
 
 Includes:
 - ⌨️ Typescript: Because it's 2023.
